@@ -21,12 +21,7 @@
 - **3D Modeling Practice**: Created custom 3D models to enhance the game’s environment and refine my modeling skills.
 
 ## Screenshots
-Here are some in-game screenshots showcasing the environment and gameplay:
-
-<h1>Sky Bound</h1>
-<p>Sky Bound is a 3D game inspired by "Only Up!", developed using Unreal Engine 5. The game features immersive environments and challenging gameplay, encouraging players to climb up to reach the top, while failing means losing all progress.</p>
-
-<h2>Screenshots</h2>
+&nbsp;&nbsp;&nbsp;&nbsp;Here are some in-game screenshots showcasing the environment and gameplay:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <img src="./resources/1.png" alt="In-Game Scene" style="height: 300px; object-fit: cover; border-radius: 8px;"/>
@@ -46,10 +41,9 @@ Here are some in-game screenshots showcasing the environment and gameplay:
 <img src="./resources/9.png" alt="Trophy for Champion" style="height: 300px; object-fit: cover; border-radius: 8px;"/>
 
 ## License
-This project is intended for educational and portfolio purposes and is not for commercial distribution. All assets from the Unreal Engine Marketplace are used under Epic Games' licensing terms.
+&nbsp;&nbsp;&nbsp;&nbsp;This project is intended for educational and portfolio purposes and is not for commercial distribution. All assets from the Unreal Engine Marketplace are used under Epic Games' licensing terms.
 
 ---
 
-Sky Bound is a visual exploration and learning project. While coding was minimal, this project provided invaluable experience in environment design and asset integration within Unreal Engine 5.
-<br />
-<!-- <img src="./resources/8.png" alt="Destination" style="height: 300px; object-fit: cover; border-radius: 8px;"/> -->
+&nbsp;&nbsp;&nbsp;&nbsp;Sky Bound is a visual exploration and learning project. While coding was minimal, this project provided invaluable experience in environment design and asset integration within Unreal Engine 5.
+<!-- <br /><img src="./resources/8.png" alt="Destination" style="height: 300px; object-fit: cover; border-radius: 8px;"/> -->
