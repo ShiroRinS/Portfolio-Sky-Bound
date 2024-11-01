@@ -33,6 +33,10 @@
     <img src="./resources/10.png" alt="Your Turn" style="height: 300px; object-fit: cover; border-radius: 8px;"/>
 </div>
 
+## Demo Video
+🎮 **[Watch the Demo on YouTube!](https://youtu.be/VZNoz_729pg)** 🎥
+
+
 
 ## Credits
 - **Development**: [ShiroRinS](https://github.com/ShiroRinS)
