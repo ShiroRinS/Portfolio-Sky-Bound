@@ -7,7 +7,6 @@
 ## Overview
 &nbsp;&nbsp;&nbsp;&nbsp;Sky Bound was created as a hands-on project to deepen my understanding of Unreal Engine 5. This journey allowed me to explore the engine’s powerful tools and plugins, focusing on building immersive environments and integrating various assets.
 
-
 ## Features
 - **Immersive 3D Environments**: Traverse through stunningly arranged objects and landscapes that present unique and extraordinary challenges.
 - **Integrated Assets**: Utilized high-quality plugins from the Unreal Engine asset store, including:
@@ -33,10 +32,34 @@
     <img src="./resources/10.png" alt="Your Turn" style="height: 300px; object-fit: cover; border-radius: 8px;"/>
 </div>
 
+## What I Learned
+
+Developing **Sky Bound** was a transformative experience that deepened my understanding of game development in several key areas:
+
+### 1. **Mastery of Unreal Engine 5**
+- **Interface Navigation**: Gained proficiency in navigating Unreal Engine 5’s complex interface and accessing various tools to streamline development.
+- **Advanced Locomotion System**: Learned how to integrate and customize this plugin to achieve realistic character movement, enriching the overall gameplay experience.
+- **Asset Management**: Enhanced my ability to organize, import, and apply assets effectively within the engine to build immersive environments.
+
+### 2. **3D Environment Design**
+- **World Building**: Explored techniques for creating visually appealing 3D environments that challenge players.
+- **Lighting and Atmosphere**: Experimented with lighting settings and sky assets to produce atmospheric scenes that evoke emotion and engagement.
+
+### 3. **Custom 3D Modeling**
+- **Model Creation**: Designed and implemented unique 3D models to populate the game, honing my skills in creating game-ready assets.
+- **Optimization Techniques**: Learned methods to keep models optimized for better performance without sacrificing visual quality.
+
+### 4. **Asset Integration**
+- **Using Marketplace Plugins**: Discovered the benefits and limitations of various plugins from the Unreal Engine Marketplace, focusing on their seamless integration into the project workflow.
+- **Enhancing Visuals**: Integrated texture and sky assets to create more immersive and visually captivating gameplay.
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Overall, the journey of building **Sky Bound** equipped me with essential skills in game development, from environment design and asset management to mastering new plugins and refining 3D modeling practices. This project served as a significant stepping stone toward more complex game projects in the future.
+
+
+
 ## Demo Video
 🎮 **[Watch the Demo on YouTube!](https://youtu.be/VZNoz_729pg)** 🎥
-
-
 
 ## Credits
 - **Development**: [ShiroRinS](https://github.com/ShiroRinS)
